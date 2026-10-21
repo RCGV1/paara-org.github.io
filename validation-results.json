@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "checks": 1198,
+  "results": [
+    "Chromium: 320px passed",
+    "Chromium: 360px passed",
+    "Chromium: 390px passed",
+    "Chromium: 430px passed",
+    "Chromium: 600px passed",
+    "Chromium: 767px passed",
+    "Chromium: 768px passed",
+    "Chromium: 1024px passed",
+    "Chromium: 1280px passed",
+    "WebKit: 320px passed",
+    "WebKit: 360px passed",
+    "WebKit: 390px passed",
+    "WebKit: 430px passed",
+    "WebKit: 600px passed",
+    "WebKit: 767px passed",
+    "WebKit: 768px passed",
+    "WebKit: 1024px passed",
+    "WebKit: 1280px passed"
+  ]
+}
